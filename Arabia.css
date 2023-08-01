@@ -1,0 +1,54 @@
+body{
+    background-color: rgba(255, 255, 255, 0)
+}
+caption{
+    color: rgb(128, 0, 28);
+    text-transform: uppercase 
+}
+caption, th{
+font-size: 28px;
+font-weight: bold;
+}
+th{
+color: #d85d24; 
+}
+h1{
+color: #067915;
+}
+h2{
+color: #b1d824;
+}
+h3{
+color: #e61c1cd2;
+}
+table{
+border: 1px solid rgb(98, 0, 255); 
+
+border-collapse: collapse; 
+}
+th{
+border: 1px solid rgb(111, 0, 255);
+}
+td{
+border:1px solid rgb(68, 0, 255);
+}
+table{
+border:1px solid black;
+}
+th {
+border:1px solid black;
+}
+td {
+border:1px solid black;
+}
+a{
+    text-decoration:none;
+    font-weight:600;
+    font-size:20px;
+    color:#ffffff;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#005BBB;
+    }

@@ -1,0 +1,29 @@
+div{
+    box-shadow: 5px 5px 5px #aaa;
+    border-radius: 2px;
+    background-color:#ccc;
+    width: 800px;
+    padding:10px;
+    margin:auto;     
+}
+h1{
+  text-shadow: 2px 2px 2px rgba(174, 209, 18, 0.884),
+    2px 2px 2px rgb(153, 219, 29);
+    
+    
+}
+p{
+    text-transform: capitalize;
+    font-family: Arial;
+}
+a{
+    text-decoration:none;
+    font-weight:600;
+    font-size:20px;
+    color:#ffffff;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-left:40px;
+    padding-right:40px;
+    background-color:#005BBB;
+    }
